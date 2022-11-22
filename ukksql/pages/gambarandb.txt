@@ -1,0 +1,4 @@
+nama = dbperjalanan
+tb = user, catatan
+atr = user : nik(varchar 11), nama
+catatan : idCatatan(int5), nik (varchar 11), tanggal (date), waktu (varchar 20), lokasi (varchar 100), suhu (int 3)
